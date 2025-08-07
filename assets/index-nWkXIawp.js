@@ -5882,7 +5882,7 @@ const bQ = { id: "app", class: "flex relative min-h-screen" },
     [
       ut(
         "a",
-        { href: "https://www.zentrixai.cc/", class: "flex text-xl items-center cursor-pointer" },
+        { href: "https://www.atomaibot.org", class: "flex text-xl items-center cursor-pointer" },
         [ut("img", { class: "w-44 mx-5 md:mx-10", src: VJ })]
       ),
     ],
